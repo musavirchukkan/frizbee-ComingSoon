@@ -16,7 +16,7 @@
 	/* Countdown Timer - The Final Countdown */
 	$('#clock')
 		.countdown(
-			'2021/12/19 09:00:00'
+			'2021/12/17 00:00:00'
 		) /* change here your "countdown to" date */
 		.on('update.countdown', function (event) {
 			var format =
